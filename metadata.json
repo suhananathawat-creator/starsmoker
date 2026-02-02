@@ -1,0 +1,7 @@
+{
+  "name": "Spatial Memory Sphere",
+  "description": "A spatial image showreel controlled by hand gestures via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
